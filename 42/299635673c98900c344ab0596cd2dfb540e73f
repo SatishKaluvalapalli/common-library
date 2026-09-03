@@ -1,0 +1,52 @@
+source/ccsp/components/common/MessageBusHelper/helper/messagebus_interface_utility.c
+  s_c7616d4e78c7ba::t_3a9746a629181c 181-185,226-233
+source/cosa/include/linux/user_time.h
+  s_c7616d4e78c7ba::t_d2f1c3561828a1 99
+source/util_api/ccsp_msg_bus/ccsp_base_api.c
+  s_c7616d4e78c7ba::t_059410349a4c7b 77-78
+  s_c7616d4e78c7ba::t_55d2e0d2cdcf39 1041-1063,1065-1088
+source/ccsp/components/include/dslh_definitions_database.h
+  s_c7616d4e78c7ba::t_62d37cfc4ef756 143,152
+source/cosa/package/slap/include/slap_definitions.h
+  s_c7616d4e78c7ba::t_13e0856c4c2bdc 144
+source/ccsp/components/common/DataModel/dml/components/DslhWmpDatabase/dslh_wmpdo_mprif.c
+  s_c7616d4e78c7ba::t_9b1a4d967d1258 311-312
+source/ccsp/components/common/DataModel/dml/components/DslhVarRecord/dslh_varro_access.c
+  s_c7616d4e78c7ba::t_bbbf7867b05801 654,716-722,1324-1325
+source/util_api/ansc/AnscPlatform/user_time.c
+  s_c7616d4e78c7ba::t_253fcc9b3b3627 77,218-220,222,224,234-240
+source/ccsp/components/common/DataModel/dml/components/DslhCpeController/dslh_cpeco_control.c
+  s_c7616d4e78c7ba::t_5d4454295b47d6 527-528
+source/ccsp/components/common/MessageBusHelper/helper/messagebus_interface_helper.c
+  s_c7616d4e78c7ba::t_e3f913fa28c4ad 124,149-152,154-158,160,332-336,523,533-536
+source/ccsp/components/common/DataModel/dml/components/DslhWmpDatabase/dslh_wmpdo_mpaif.c
+  s_c7616d4e78c7ba::t_857e2304b7a5ea 762-763
+source/ccsp/include/ccsp_base_api.h
+  s_c7616d4e78c7ba::t_c8c25db95dd661 341-342
+source/cosa/include/linux/user_runtime.h
+  s_c7616d4e78c7ba::t_00f3435ed3718d 94-101
+source/ccsp/components/common/DataModel/dml/components/DslhWmpDatabase/dslh_wmpdo_utilities.c
+  s_c7616d4e78c7ba::t_c1c7cc8c6f52ac 416-426
+source/util_api/ansc/include/user_time.h
+  s_c7616d4e78c7ba::t_e058d432a2f432 99
+source/util_api/ansc/AnscPlatform/user_runtime.c
+  s_c7616d4e78c7ba::t_2c6afe0b388f74 52,119-166
+source/ccsp/components/include/dslh_definitions_tr143.h
+  s_c7616d4e78c7ba::t_da0b7a672fc194 88-89,104-105,116-117,139-140,152-153
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "42299635673c98900c344ab0596cd2dfb540e73f",
+  "prompts": {},
+  "sessions": {
+    "s_c7616d4e78c7ba": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "95f43fb1-f4c8-4275-8abe-0242bb0a837a",
+        "model": "composer-2.5"
+      },
+      "human_author": null
+    }
+  }
+}
