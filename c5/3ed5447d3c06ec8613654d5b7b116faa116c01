@@ -1,0 +1,24 @@
+source/util_api/ansc/AnscPlatform/user_time.c
+  s_c7616d4e78c7ba::t_6da5cb2de7e843 77
+  s_c7616d4e78c7ba::t_54783efc3ab8da 218-220,222,224,234-240
+source/util_api/ansc/include/user_time.h
+  s_c7616d4e78c7ba::t_9bf1d3d7b31589 99
+source/cosa/include/linux/user_time.h
+  s_c7616d4e78c7ba::t_6885bc2926eb3b 99
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c53ed5447d3c06ec8613654d5b7b116faa116c01",
+  "prompts": {},
+  "sessions": {
+    "s_c7616d4e78c7ba": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "95f43fb1-f4c8-4275-8abe-0242bb0a837a",
+        "model": "composer-2.5"
+      },
+      "human_author": "kaluvalapalli.satish <kaluvalapalli.satish@telekom-digital.com>"
+    }
+  }
+}
