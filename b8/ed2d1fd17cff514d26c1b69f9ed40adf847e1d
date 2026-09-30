@@ -1,0 +1,22 @@
+source/debug_api/include/linux/user_time.h
+  h_9b9358c5248cc5 99
+source/debug_api/user_time.h
+  h_9b9358c5248cc5 99
+source/util_api/ansc/AnscPlatform/user_runtime.c
+  h_9b9358c5248cc5 139-144
+source/util_api/ansc/AnscPlatform/user_time.c
+  h_9b9358c5248cc5 222-236,275
+source/util_api/ccsp_msg_bus/ccsp_base_api.c
+  h_9b9358c5248cc5 1058,1060,1089-1094
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "b8ed2d1fd17cff514d26c1b69f9ed40adf847e1d",
+  "prompts": {},
+  "humans": {
+    "h_9b9358c5248cc5": {
+      "author": "kaluvalapalli.satish <kaluvalapalli.satish@telekom-digital.com>"
+    }
+  }
+}
